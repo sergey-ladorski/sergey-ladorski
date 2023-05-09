@@ -5,8 +5,8 @@
 _______
 
 # Contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/ingensson)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn)](https://vk.com/sofyamitrofanova)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/sergey_ladorski)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sergeyladorski)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sergey-ladorski&theme=dark)](https://git.io/streak-stats)
 
